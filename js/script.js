@@ -167,8 +167,8 @@ document.addEventListener("click", function(e) {
     for(let i = 0; i < 6; i++){   // multiple particles
         let sparkle = document.createElement("div");
         sparkle.style.position = "fixed";
-        sparkle.style.width = "6px";
-        sparkle.style.height = "6px";
+        sparkle.style.width = "10px";
+        sparkle.style.height = "10px";
         sparkle.style.background = "#ffd166";
         sparkle.style.borderRadius = "50%";
         sparkle.style.pointerEvents = "none";
