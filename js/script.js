@@ -177,7 +177,7 @@ document.addEventListener("click", function(e) {
         sparkle.style.top = e.clientY + "px";
         document.body.appendChild(sparkle);
         let angle = Math.random() * 2 * Math.PI;
-        let distance = 30 + Math.random() * 20;
+        let distance = 40 + Math.random() * 30;
         let x = Math.cos(angle) * distance;
         let y = Math.sin(angle) * distance;
         let colors = ["#523b05", "#0522a5", "#0fc74c", "#eb02d7"];
