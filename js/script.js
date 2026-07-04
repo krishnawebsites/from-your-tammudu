@@ -1,4 +1,4 @@
-
+alert("JS Loaded");
 let currentPage = 1;
 const totalPages = 5;
 function nextPage() {
