@@ -599,7 +599,7 @@ button1 :hover .icon-3 {
 .wish-column{
     display:flex;
     flex-direction:column;
-    gap:10px;
+    gap:5px;
 }
 
 .left-wishes{
