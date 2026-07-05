@@ -632,17 +632,17 @@ button1 :hover .icon-3 {
     animation:wishFloat 3.5s ease-in-out infinite;
 }
 
-.left-wishes span:nth-child(1){ margin-right:60px; color:#1a535c; }
-.left-wishes span:nth-child(2){ margin-right:120px; color:#7a1f3d  ; animation-delay:.2s; }
+.left-wishes span:nth-child(1){ margin-right:30px; color:#1a535c; }
+.left-wishes span:nth-child(2){ margin-right:110px; color:#7a1f3d  ; animation-delay:.2s; }
 .left-wishes span:nth-child(3){ margin-right:10px; color:#b45309  ; animation-delay:.4s; }
 .left-wishes span:nth-child(4){ margin-right:100px; color:#3a0ca3; animation-delay:.3s; }
 .left-wishes span:nth-child(5){ margin-right:1px; color:#b23a48; animation-delay:.4s; }
 .left-wishes span:nth-child(6){ margin-right:90px; color:#538b8a; animation-delay:5s; }
-.left-wishes span:nth-child(7){ margin-right:150px; color:#3f292b; animation-delay:6s; }
+.left-wishes span:nth-child(7){ margin-right:120px; color:#3f292b; animation-delay:6s; }
 
 /* right side zig-zag */
 .right-wishes span:nth-child(1){ margin-left:0; color:#8b1e3f; }
-.right-wishes span:nth-child(2){ margin-left:150px; color:#538b8a; animation-delay:.2s; }
+.right-wishes span:nth-child(2){ margin-left:140px; color:#538b8a; animation-delay:.2s; }
 .right-wishes span:nth-child(3){ margin-left:10px; color:#7b3f61; animation-delay:.4s; }
 .right-wishes span:nth-child(4){ margin-left:90px; color:#b45309  ; animation-delay:.3s; }
 .right-wishes span:nth-child(5){ margin-left:1px; color:#bf0603; animation-delay:.8s; }
